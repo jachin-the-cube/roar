@@ -1,0 +1,32 @@
+"program goal:
+"1. add items to a list (ints)
+"2. offer the user a choice of actions
+"3. pull the values stored at specific indexes
+"4. convert input to INS's
+
+
+""
+
+def mainprogram() :
+   print ("Hello there, lets work with list")
+   print ("plese choose from the following options. ty[e the number of the choice")
+   choice = input("1. add to a list, 2. return a value at a list    ")
+     if choice == "1":
+       addToList()
+     elif choice == "2":
+        indecValue()
+        
+def addToList():
+     print(" adding to a list great choice")
+     newItem = input(" type an interger here!  ")
+     my List.append(int( new item))
+     # think about errors 
+
+
+def indexValues():
+
+
+
+
+if__name__==" main__ ""
+mainProgram()
