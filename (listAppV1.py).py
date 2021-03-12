@@ -7,6 +7,8 @@ program goal:
 
 
 """""
+import random
+
 myList = []
 
 
